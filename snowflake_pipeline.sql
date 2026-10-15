@@ -201,5 +201,8 @@ where raw_payload:event_id is null
     alter alert alert_invalid_order_amount resume;
     alter alert alert_ingestion_stalled resume;
     alter alert alert_duplicate_events resume;
+    alter alert alert_missing_mandatory_fields resume;
 
+
+show alerts;
   
