@@ -2,3 +2,7 @@ fastapi
 uvicorn
 boto3
 python-dotenv
+streamlit
+snowflake-connector-python
+pandas
+plotly
